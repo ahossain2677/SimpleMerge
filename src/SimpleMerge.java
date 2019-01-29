@@ -7,6 +7,9 @@
 public class SimpleMerge {
     public static int[] simpleMerge(int[] arr1, int[] arr2) {
 
+    println("Merging:" + arr1 + "and" + arr2);
+    arr3 = (arr1,arr2);
+    
+            
     }
-
 }

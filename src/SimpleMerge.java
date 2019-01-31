@@ -6,7 +6,7 @@
  */
 public class SimpleMerge {
     
-int[] arr3 = (arr1.length + arr2.length);       // combines array 1 and 2 
+int[] arr3 = new int [arr1.length + arr2.length];       // combines array 1 and 2 
     
    static int sort(int[] arr3, int ind)      //Selection sort used on the array 3 
     {
